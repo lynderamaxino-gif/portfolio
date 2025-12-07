@@ -8,3 +8,4 @@
 #🔹 Forensics case studies
 #🔹 Python automation scripts
 #🔹 Research and reports
+#This repo showcases my journey in tech, documenting hands-on labs, configurations, and portfolio projects.
